@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="927Style.css"/>
+<script src="927Script"/>
+</head>
+
+<body>
+
+<button type="button" id=comic onclick="comicSans()">
+
+Comic Sans
+
+</button>
+
+<button type="button" id=wd onclick="wingdings()">
+
+Wingdings
+
+</button>
+
+<p id=font>
+
+This text's font will change!
+
+</p>
+
+</body>
+</html>
